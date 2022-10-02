@@ -1,0 +1,6 @@
+Arduino IDE-> servo exmaple with knob.
+
+For HX711 using ros refer to 
+https://jstar0525.tistory.com/153
+
+Had attend Robotics Essentials by MIT xPRO
